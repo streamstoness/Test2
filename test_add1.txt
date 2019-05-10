@@ -1,3 +1,8 @@
 bla~bla~
+<<<<<<< HEAD
 addd on loal
 alter on test4
+=======
+ad on loc1al
+alter on test4
+>>>>>>> d269011a91c5ad916897b5402f0cd768211c09b7
